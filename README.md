@@ -4,7 +4,7 @@
 
 I'm a software engineer student who is passionate about writing code, solving problems, frontend development, and building software.
 
-- 🔭 I’m currently a software engineer student at Jimma Unversity.
+- 🔭 I’m currently a software engineering student at Jimma Unversity.
 - 📚 I’m currently learning  fullstuck web development using React, Vue, Angular, Next js, NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking to collaborate on frontend projects and Basic backend Dev stuff
 - ### 🛠 Technologies & Tools
