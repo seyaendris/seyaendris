@@ -5,10 +5,11 @@
 
 Passionate Software Engineer crafting dynamic web applications with MERN and Next.js. I thrive on solving complex challenges and delivering seamless user experiences. Let’s build the future, one line of code at a time!
 
-- 🌐 Fullstack Developer: Specialized in crafting scalable and efficient web applications using the MERN stack and Next.js.
-- 💡 Problem Solver: Passionate about tackling complex challenges and turning ideas into reality with clean and maintainable code.
-- 🚀 Lifelong Learner: Always exploring new technologies and staying updated with the latest in web development.
-- 🤝 Collaborative Spirit: Thrive in team environments, contributing to impactful projects while mentoring and learning from peers.
+- 🌐 **Fullstack Developer**: Specialized in crafting scalable and efficient web applications using the MERN stack and Next.js.
+- 💡 **Problem Solver**: Passionate about tackling complex challenges and turning ideas into reality with clean and maintainable code.
+- 🚀 **Lifelong Learner**: Always exploring new technologies and staying updated with the latest in web development.
+- 🤝 **Collaborative Spirit**: Thrive in team environments, contributing to impactful projects while mentoring and learning from peers.
+
 
 ### 🛠 Technologies & Tools
 
