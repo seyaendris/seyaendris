@@ -9,7 +9,8 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
 - 💡 Problem Solver: Passionate about tackling complex challenges and turning ideas into reality with clean and maintainable code.
 - 🚀 Lifelong Learner: Always exploring new technologies and staying updated with the latest in web development.
 - 🤝 Collaborative Spirit: Thrive in team environments, contributing to impactful projects while mentoring and learning from peers.
- ### 🛠 Technologies & Tools
+
+### 🛠 Technologies & Tools
 
 #### 🌐 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -34,12 +35,36 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-...
-- 📫 How to reach me: 
+### 🚧 Currently Working On
+- 🌐 Building projects using **MERN stack** and **Next.js** as a freelancer
+- 📖 Exploring **Backend Architectures** and **AI**
+- 🛠 Enhancing my skills in **Python**
+- 📚 Learning **Data Structures** and **Algorithms**
+
+### 📫 How to reach me: 
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@seya_oza)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seide9894@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seid-endris-100268244)
 [![Website](https://img.shields.io/badge/-WEBSITE-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seya-portifolio.netlify.app/)
 
+### 📊 GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=seyaendris&show_icons=true&theme=radical" alt="Seid's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=seyaendris&theme=radical" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyaendris&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+### 💡 Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
