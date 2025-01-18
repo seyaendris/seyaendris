@@ -54,10 +54,10 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=seyaendris&show_icons=true&theme=radical" alt="Seid's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=seyaendris&show_icons=true&theme=radical" alt="Seid's GitHub Stats" />
     </td>
     <td>
-      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seyaendris&theme=radical&hide_border=true)
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=seyaendris&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -66,6 +66,7 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
     </td>
   </tr>
 </table>
+
 
 ### 💡 Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
