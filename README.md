@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seid+Endris!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&vCenter=false&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Seid+Endris!;" />
 </h1>
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
