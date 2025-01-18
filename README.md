@@ -65,7 +65,7 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td align="center">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyaendris&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
     </td>
   </tr>
