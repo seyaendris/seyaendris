@@ -65,6 +65,16 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyaendris&layout=compact&theme=radical" alt="Most Used Languages" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=seyaendris&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=seyaendris&theme=radical" alt="GitHub Activity Graph" />
+    </td>
+  </tr>
 </table>
 
 
