@@ -76,7 +76,6 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
     </td>
   </tr>
 </table>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=seyaendris)](https://git.io/streak-stats)
 
 ### 💡 Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
