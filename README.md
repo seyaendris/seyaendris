@@ -65,7 +65,7 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyaendris&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyaendris&layout=compact&theme=react&border_radius=10" alt="Most Used Languages" />
     </td>
     <td>
       <img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=seyaendris&theme=react&border_radius=10" alt="GitHub Activity Graph" />
@@ -76,3 +76,8 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
 
 ### 💡 Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+<br/>
+
+<hr/>
+
+<br/>
