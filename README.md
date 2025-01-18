@@ -58,7 +58,7 @@ Passionate Software Engineer crafting dynamic web applications with MERN and Nex
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=seyaendris&show_icons=true&theme=react&border_radius=10&count_private=true" alt="Seid's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=seyaendris&show_icons=true&theme=react&border_radius=10&count_private=true&rank_icon=github" alt="Seid's GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=seyaendris&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
